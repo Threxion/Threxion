@@ -1,5 +1,11 @@
-## Hi there 👋
+ToDoList
+"Minecraft BE" like Wardobe Software/Website
 
+A mod with gameplay/content that surpasses "Thaumcraft"
+
+A massive RPG server/mod pack
+
+May never finish those things
 <!--
 **Threxion/Threxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
